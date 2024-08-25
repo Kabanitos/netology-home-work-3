@@ -115,6 +115,8 @@ https://hub.docker.com/r/cabanitos/custom-nginx
 
 ### Ответ
 
+![Скрин выполнения задания 4](img/dz4.png "Скрин выполнения задания 4")
+
 
 
 ## Задача 5
